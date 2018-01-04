@@ -45,6 +45,7 @@ body {
   width: 125px;
 
 }
+
 .robot-head-left {
   position: absolute;
   top: 10px;
@@ -56,6 +57,7 @@ body {
   top: 10px;
   right: 33%;
 }
+
 .robot:hover .robot-head-left {
   position: absolute;
   top: 10px;

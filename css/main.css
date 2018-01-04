@@ -19,6 +19,10 @@ body {
   height: 240px;
 }
 
+.robot {
+  height: 240px;
+}
+
 .robot-body {
   width: 320px;
   position: absolute;

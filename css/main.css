@@ -53,13 +53,13 @@ body {
   right: 33%;
 }
 
-.robot:hover .robot-head-left {
+.robot-head-left:hover {
   position: absolute;
   top: 10px;
   left: 150px;
 }
 
-.robot:hover .robot-head-right {
+.robot-head-right:hover {
   position: absolute;
   top: 10px;
   right: 150px;

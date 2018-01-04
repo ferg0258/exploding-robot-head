@@ -19,11 +19,6 @@ body {
   height: 240px;
 }
 
-.robot {
-  width: 320px;
-  right: 50px;
-}
-
 .robot-body {
   width: 320px;
   position: absolute;

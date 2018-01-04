@@ -69,5 +69,7 @@ body {
 .robot:hover .robot-brain {
   width: 46px;
   position: absolute;
-  left: 305px;
+  left: 50%;
   top: 45px;
+  transform: translateX(-50%);
+}

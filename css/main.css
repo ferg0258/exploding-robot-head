@@ -65,7 +65,7 @@ body {
   right: 150px;
 }
 
-.robot:hover .robot-brain {
+.robot-brain:hover {
   width: 46px;
   position: absolute;
   left: 50%;
